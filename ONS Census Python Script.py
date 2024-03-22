@@ -1,4 +1,5 @@
-#Python script for analysing Office for National Statistics Census 2021 data 
+#Python script for analysing Office for National Statistics Census 2021 data
+#Completed during work experience at the Telegraph for the data journalism team.
 #Date: 21/03/2024
 #Author: Owen Jones
 
